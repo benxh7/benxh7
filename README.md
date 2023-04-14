@@ -1,8 +1,76 @@
-# benxh#2004<p align="center">
-  asda
+# benxh#2004# benxh#2004
+![64786f790030895a9e99e54b1a2fb22a](https://user-images.githubusercontent.com/108086683/208324894-1fcf78ce-65c6-478a-80ed-701eb6c04d9b.gif)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 <!-- Perfil de Discord -->
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/500095712348995584?theme=light&bg=008d9e&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/500095712348995584)
+<p align="center"> 
+  <a href="https://dsc.bio/benxh">
+  <img src="https://lanyard.cnrad.dev/api/500095712348995584?theme=light&bg=008d9e&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
+</a>
+<br />
+<p align="center">
+  <a href="https://www.google.com/maps/place/Chile/@-35.4432106,-106.2422428,4z/data=!3m1!4b1!4m6!3m5!1s0x9662c5410425af2f:0x505e1131102b91d!8m2!3d-35.675147!4d-71.542969!16zL20vMDFwMXY?hl=es">
+    <img 
+    alt="banner" 
+    title="chile"
+    src="https://custom-icon-badges.demolab.com/badge/Santiago-CH-red?style=for-the-badge&logo=location&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCHD0hasejEdvFD3HYSWpoGg">
+    <img 
+    alt="banner" 
+    title="youtube"
+    src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>
+  </a>
+  
+  <a href="https://discord.gg/aMRWJ8FgqJ">
+    <img 
+    alt="banner" 
+    title="discord"
+    src="https://custom-icon-badges.demolab.com/badge/-Discord-green?style=for-the-badge&logo=discordlogo&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/lapucelle.exe/">
+    <img 
+    alt="banner" 
+    title="instagram"
+    src="https://custom-icon-badges.demolab.com/badge/-Instagram-pink?style=for-the-badge&logo=iglogo&logoColor=white"/>
+  </a>
+</p>
+<br />
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Discord%20-%2314354C.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Jupyter_Notebook%20-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/OpenCV%20-%23FFBB00.svg?&style=for-the-badge&logo=Canonical&logoColor=white"/>
+<p align="center">
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+<br />
+
+<details open> 
+  <summary><h2>🖤 About me</h2></summary>
+  
+Hi, I’m @La-Pucelle. I am a programming student, I have experience in design and animations. I work with programs such as Photoshop, Illustratos, Premiere, After effects and audition. I am also a musician, I study clarinet and piano, I manage music composition in ableton studio. 🌱 I’m currently learning to program in C++, I have some pending projects.
+
+</details>
+
+<details open> 
+  <summary><h2>🖤 Abandoned project</h2></summary>
+
+  - Hashira Ragnarok Online server (Server with 200 players)
+  - Hashira Discord Bot
+  - Hashira Page
+
+  <p align="center"> 
+    <img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
+  </p>
+</details>
