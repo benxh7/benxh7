@@ -32,7 +32,7 @@
     <img 
     alt="banner" 
     title="discord"
-    src="https://custom-icon-badges.demolab.com/badge/-Discord-green?style=for-the-badge&logo=discordlogo&logoColor=white"/>
+    src="https://custom-icon-badges.demolab.com/badge/-Discord-blue?style=for-the-badge&logo=discordlogo&logoColor=white"/>
   </a>
   
   <!-- <a href="https://www.instagram.com/benjamorales.571/?theme=dark">
