@@ -1,5 +1,8 @@
-# benxh#2004# benxh#2004
-![64786f790030895a9e99e54b1a2fb22a](https://user-images.githubusercontent.com/108086683/208324894-1fcf78ce-65c6-478a-80ed-701eb6c04d9b.gif)
+# benxh#2004
+
+<!-- Imagen -->
+<!-- ![64786f790030895a9e99e54b1a2fb22a](https://user-images.githubusercontent.com/108086683/208324894-1fcf78ce-65c6-478a-80ed-701eb6c04d9b.gif) -->
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
@@ -18,7 +21,7 @@
     src="https://custom-icon-badges.demolab.com/badge/Santiago-CH-red?style=for-the-badge&logo=location&logoColor=white"/>
   </a>
   
-  <a href="https://www.youtube.com/channel/UCHD0hasejEdvFD3HYSWpoGg">
+  <a href="https://www.youtube.com/channel/UCrrHq3tp3lKp8x5ZhJLKMDw">
     <img 
     alt="banner" 
     title="youtube"
