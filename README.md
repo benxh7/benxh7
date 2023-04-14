@@ -28,7 +28,7 @@
     src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/>
   </a>
   
-  <a href="https://discord.gg/aMRWJ8FgqJ">
+  <a href="https://discord.gg/RedRDJNrDK">
     <img 
     alt="banner" 
     title="discord"
