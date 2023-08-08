@@ -6,7 +6,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Software+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Cybersecurity+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 <!-- Perfil de Discord -->
