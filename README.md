@@ -10,13 +10,10 @@
 </p>
 
 <!-- Perfil de Discord -->
-# <p align="center">i code until i cant</p>
-| Discord Profile | GitHub Stats |
-| --------------- | ------------ |
-![My Discord profile]([https://lanyard.cnrad.dev/api/756164525035749529](https://lanyard.cnrad.dev/api/500095712348995584?&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&)) | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=benxh7&count_private=true&show_icons=true&theme=dracula)
-
 <p align="center"> 
   <a href="https://dsc.bio/benxh">
+  | Discord Profile |
+  | --------------- |
   <img src="https://lanyard.cnrad.dev/api/500095712348995584?&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
 </a>
 <br />
