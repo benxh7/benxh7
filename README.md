@@ -71,8 +71,7 @@ Hola, soy @benxh. Soy estudiante de programación. Trabajo con programas como Vi
 <details open> 
   <summary><h2>🗑️ Proyectos Abandonados</h2></summary>
   
-  - Garou Discord Bot
-  - Keytan Network Page
+  - Ninguno
 
   <!--<p align="center"> 
     <img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
