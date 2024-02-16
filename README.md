@@ -12,7 +12,7 @@
 <!-- Perfil de Discord -->
 <p align="center"> 
   <a href="https://dsc.bio/benxh">
-  <img src="https://lanyard.cnrad.dev/api/500095712348995584?&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
+  <img src="https://lanyard.cnrad.dev/api/500787513330499584?theme=light&bg=9ecf80&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Maybe%20he%20is%20studying...&" />
 </a>
 <br />
 <p align="center">
