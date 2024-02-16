@@ -12,7 +12,7 @@
 <!-- Perfil de Discord -->
 <p align="center"> 
   <a href="https://dsc.bio/benxh">
-  <img src="https://lanyard-profile-readme.vercel.app/api/500095712348995584?theme=dark&&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/500095712348995584?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&" />
 </a>
 <br />
 <p align="center">
