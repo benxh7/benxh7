@@ -62,14 +62,14 @@
 <br />
 
 <details open> 
-  <summary><h2>🖥️ Sobre Mí</h2></summary>
+  <summary><h2>🖥️ About Me</h2></summary>
   
 Hi, I'm @benxh. I'm a programming student. I work with programs like Visual Code Studio, Visual Code and IntelliJ IDEA. I also like sports a lot.🌱Currently I'm learning to program in Java, I have some pending projects.
 
 </details>
 
 <details open> 
-  <summary><h2>🗑️ Proyectos Abandonados</h2></summary>
+  <summary><h2>🗑️ Abandoned Projects</h2></summary>
   
   - Ninguno
 
