@@ -64,7 +64,7 @@
 <details open> 
   <summary><h2>🖥️ Sobre Mí</h2></summary>
   
-Hola, soy @benxh. Soy estudiante de programación. Trabajo con programas como Visual Code Studio, Visual Code e IntelliJ IDEA. También me gusta mucho el deporte.🌱Actualmente estoy aprendiendo a programar en Java, tengo algunos proyectos pendientes.
+Hi, I'm @benxh. I'm a programming student. I work with programs like Visual Code Studio, Visual Code and IntelliJ IDEA. I also like sports a lot.🌱Currently I'm learning to program in Java, I have some pending projects.
 
 </details>
 
