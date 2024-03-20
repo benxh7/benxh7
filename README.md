@@ -71,7 +71,7 @@ Hi, I'm @benxh. I'm a programming student. I work with programs like Visual Code
 <details open> 
   <summary><h2>🗑️ Abandoned Projects</h2></summary>
   
-  - Ninguno
+  - None
 
   <!--<p align="center"> 
     <img src="https://user-images.githubusercontent.com/108086683/208324960-1a4596d1-46de-4ead-a320-5adf412990d3.gif"/>
