@@ -11,6 +11,8 @@
     <img src="https://komarev.com/ghpvc/?username=benxh&color=blueviolet"/>
 </p>
 
+<hr/>
+
 <!-- Perfil de Discord -->
 <p align="center"> 
   <a href="https://dsc.bio/benxh">
