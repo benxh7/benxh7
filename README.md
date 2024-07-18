@@ -7,8 +7,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Programmer+Analyst+Student" alt="Typing SVG" /></a>
 </p> -->
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=benxh&color=blue"/>
+<p align='center'>
+    <img src='https://komarev.com/ghpvc/?username=benxh&color=blue' width='25%'/>
 </p>
 
 <hr/>
@@ -20,7 +20,7 @@
 * ❤️ `I love`: **Caramel macchiato**,
 * 💻 `Favorite lang`: **Java & TypeScript**
 
-<div align="left">
-  <a href="https://dsc.bio/benxh">
-  <img src="https://lanyard.kyrie25.me/api/500095712348995584?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
+<div align='left'>
+  <a href='https://dsc.bio/benxh'>
+  <img src='https://lanyard.kyrie25.me/api/500095712348995584?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=FFB900-FFCC45-FFDC7E-FFFFFF'/>
 </div>
