@@ -14,9 +14,7 @@
 <hr/>
 
 <!-- Perfil de Discord -->
-```url
-https://lanyard.kyrie25.me/api/368399721494216706?animationDuration=4s
-```
+![waveColor showcase](https://user-images.githubusercontent.com/77577746/223082809-14b38bbc-c600-4b62-ba74-f242dada553b.svg)
 
 <p align="right"> 
   <a href="https://dsc.bio/benxh">
