@@ -16,7 +16,7 @@
 <!-- Perfil de Discord -->
 <p align="right"> 
   <a href="https://dsc.bio/benxh">
-  <img src="https://lanyard.kyrie25.me/api/500095712348995584?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=645CBB-A084DC-BFACE2-EBC7E6"/>
+  <img src="https://lanyard.kyrie25.me/api/500095712348995584??waveColor=FF597B&waveSpotifyColor=FF597B"/>
 </a>
 
 * 😎 `My name is`: **Benjamin (benxh)**,
