@@ -14,13 +14,9 @@
 <hr/>
 
 <!-- Perfil de Discord -->
-
-<p align="right"> 
-  <img src="https://lanyard.kyrie25.me/api/500095712348995584?gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
-
-<div align="center"> 
+<div align="right"> 
   <a href="https://dsc.bio/benxh">
-  <img src="https://lanyard.kyrie25.me/api/500095712348995584" />
+  <img src="https://lanyard.kyrie25.me/api/500095712348995584?gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
 </div>
 
 * 😎 `My name is`: **Benjamin (benxh)**,
