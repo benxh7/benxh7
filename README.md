@@ -19,6 +19,11 @@
   <img src="https://lanyard.kyrie25.me/api/500095712348995584?animationDuration=4s&waveColor=FF597B&waveSpotifyColor=FF597B&gradient=645CBB-A084DC-BFACE2-EBC7E6"/>
 </a>
 
+<div align="center"> 
+  <a href="https://dsc.bio/benxh">
+  <img src="https://lanyard.kyrie25.me/api/500095712348995584" />
+</div>
+
 * 😎 `My name is`: **Benjamin (benxh)**,
 * ⚡ `I'm`: **20 Years Old**,
 * 🌱 `I’m currently learning`: **Java, SpigotAPI, MySQL and Redis**,
