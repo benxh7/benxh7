@@ -31,7 +31,6 @@
 <img src="https://lanyard.kyrie25.me/api/500095712348995584?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
 </a>
 
-    </td>
   </tr>
 </table>
 
