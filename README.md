@@ -7,8 +7,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=118D04&center=true&vCenter=true&width=435&lines=-+Hi%2C+I%E2%80%99m+%40benxh.;-+Programmer+Analyst+Student" alt="Typing SVG" /></a>
 </p> -->
 
-<p align='center'>
-    <img src='https://komarev.com/ghpvc/?username=benxh&color=blue' width='10%'/>
+<p align='left'>
+    <img src='https://komarev.com/ghpvc/?username=benxh&color=blue' width='15%'/>
 </p>
 
 <hr/>
