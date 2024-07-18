@@ -14,6 +14,10 @@
 <hr/>
 
 <!-- Perfil de Discord -->
+```url
+https://lanyard.kyrie25.me/api/368399721494216706?animationDuration=4s
+```
+
 <p align="right"> 
   <a href="https://dsc.bio/benxh">
   <img src="https://lanyard.kyrie25.me/api/500095712348995584?gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
