@@ -14,7 +14,6 @@
 <hr/>
 
 <!-- Perfil de Discord -->
-[![Discord Presence](https://lanyard.kyrie25.me/api/500095712348995584)](https://discord.com/users/500095712348995584)
 <p align="right"> 
   <a href="https://dsc.bio/benxh">
   <img src="https://lanyard.kyrie25.me/api/500095712348995584?decoration=true&useDisplayName=true&animationDuration=4s&waveColor=FF597B&waveSpotifyColor=FF597B"/>
