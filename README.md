@@ -14,7 +14,7 @@
 <hr/>
 
 <!-- Perfil de Discord -->
-<p align="center"> 
+<p align="right"> 
   <a href="https://dsc.bio/benxh">
   <img src="https://lanyard-profile-readme.vercel.app/api/500095712348995584?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&" />
 </a>
