@@ -17,7 +17,7 @@
 * 😎 `My name is`: **Benjamin (benxh)**,
 * ⚡ `I'm`: **20 Years Old**,
 * 🌱 `I’m currently learning`: **Java, SpigotAPI, MySQL and Redis**,
-* ❤️ `I love`: **Caramel macchiato**,
+* 🐈 `I love`: **My Cat Tina**,
 * 💻 `Favorite lang`: **Java & TypeScript**
 
 <div align='left'>
