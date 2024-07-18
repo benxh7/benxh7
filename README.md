@@ -8,7 +8,7 @@
 </p> -->
 
 <p align='center'>
-    <img src='https://komarev.com/ghpvc/?username=benxh&color=blue' width='25%'/>
+    <img src='https://komarev.com/ghpvc/?username=benxh&color=blue' width='10%'/>
 </p>
 
 <hr/>
