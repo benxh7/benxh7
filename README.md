@@ -16,7 +16,7 @@
 <!-- Perfil de Discord -->
 <p align="right"> 
 <a href="https://dsc.bio/benxh">
-  <img src="[https://lanyard.kyrie25.me/api/](https://lanyard.kyrie25.me/api/500095712348995584?useDisplayName=true)" />
+  <img src="https://lanyard.kyrie25.me/api/500095712348995584?useDisplayName=true" />
 </div>
   
 <p align="right"> 
