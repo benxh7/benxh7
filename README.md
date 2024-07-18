@@ -14,12 +14,9 @@
 <hr/>
 
 <!-- Perfil de Discord -->
-![waveColor showcase](https://user-images.githubusercontent.com/77577746/223082809-14b38bbc-c600-4b62-ba74-f242dada553b.svg)
 
 <p align="right"> 
-  <a href="https://dsc.bio/benxh">
   <img src="https://lanyard.kyrie25.me/api/500095712348995584?gradient=FFB900-FFCC45-FFDC7E-FFFFFF"/>
-</a>
 
 <div align="center"> 
   <a href="https://dsc.bio/benxh">
