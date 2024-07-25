@@ -16,7 +16,7 @@
 <!-- Perfil de Discord -->
 * 😎 `My name is`: **Benjamin (benxh)**,
 * ⚡ `I'm`: **20 Years Old**,
-* 🌱 `I’m currently learning`: **Java, SpigotAPI, MySQL and Redis**,
+* 🌱 `I’m currently learning`: **Java, SpigotAPI, MySQL and Redis**.
 * 🐈 `I love`: **My Cat Tina & America**,
 * 💻 `Favorite lang`: **Java & TypeScript**
 
