@@ -17,8 +17,8 @@
 * 😎 `My name is`: **Benjamin (benxh)**.
 * ⚡ `I'm`: **20 Years Old**.
 * 🌱 `I’m currently learning`: **Java, SpigotAPI, MySQL and Redis**.
-* 💖 `I love`: **🐈 Tina & 👸 America**.
-* 💻 `Favorite lang`: **Java & TypeScript**
+* 💖 `I love`: **🐈 Tina**.
+* 💻 `Favorite lang`: **Java, Python & TypeScript**
 
 <div align='left'>
   <a href='https://dsc.bio/benxh'>
