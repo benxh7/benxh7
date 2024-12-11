@@ -24,3 +24,7 @@
   <a href='https://dsc.bio/benxh'>
   <img src='https://lanyard.kyrie25.me/api/500095712348995584?waveColor=FF597B&waveSpotifyColor=FF597B&gradient=FFB900-FFCC45-FFDC7E-FFFFFF'/>
 </div>
+
+## Github Stats
+
+<a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=benxh7&theme=merko&locale=en&count_private=true&show_icons=true" width=40% alt="benxh7's Github Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benxh7&layout=compact&theme=merko&locale=en" width=40% alt="benxh7's Github Stats"></a>
