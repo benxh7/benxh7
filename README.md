@@ -27,4 +27,4 @@
 
 ## Github Stats
 
-<a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=benxh7&theme=holi&locale=en&count_private=true&show_icons=true" width=40% alt="benxh7's Github Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benxh7&layout=compact&theme=holi&locale=en" width=40% alt="benxh7's Github Stats"></a>
+<a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=benxh7&theme=great-gatsby&locale=en&count_private=true&show_icons=true" width=40% alt="benxh7's Github Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benxh7&layout=compact&theme=great-gatsby&locale=en" width=40% alt="benxh7's Github Stats"></a>
