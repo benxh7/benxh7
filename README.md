@@ -21,7 +21,7 @@
 <!-- Perfil de Discord -->
 <div align='left'>
   <a href='https://dsc.bio/benxh'>
-  <img src='https://lanyard.kyrie25.dev/api/500095712348995584?imgStyle=square'/>
+  <img src='https://lanyard.kyrie25.dev/api/500095712348995584?imgStyle=square&gradient=FFB900-FFCC45-FFDC7E-FFFFFF'/>
 </div>
 
 ## Github Stats
