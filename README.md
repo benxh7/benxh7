@@ -12,6 +12,7 @@
 </p>
 
 <hr/>
+
 * 😎 `My name is`: **Benjamin (benxh)**.
 * ⚡ `I'm`: **20 Years Old**.
 * 🌱 `I’m currently learning`: **Python, Java, SpigotAPI, MySQL and Redis**.
