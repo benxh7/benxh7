@@ -16,7 +16,7 @@
 * 😎 `My name is`: **Benjamin (benxh)**.
 * ⚡ `I'm`: **21 Years Old**.
 * 🌱 `I’m currently learning`: **Python, Java, HTML, CSS, JavaScript, MySQL and Redis**.
-* 💖 `I love`: **🐈 Tina**.
+* 💖 `I love`: **🐈 Tina & America**.
 * 💻 `Favorite lang`: **Java, Python & TypeScript**
 <!-- Perfil de Discord -->
 <div align='left'>
