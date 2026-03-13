@@ -24,6 +24,15 @@
   <img src='https://lanyard.kyrie25.dev/api/500095712348995584?imgStyle=square&gradient=FFB900-FFCC45-FFDC7E-FFFFFF'/>
 </div>
 
-## Github Stats
+## Languages & Technologies
+
+[![Languages & Technologies](https://skills-icons.vercel.app/api/icons?i=java,js,ts,nodejs,bun,html,css,tailwindcss,react,vue,nextjs,redux,zustand,electron,tauri,express,nestjs,fastify,graphql,apollo,websocket,socketio,selenium,zod,sqlite,mysql,mongo,redis,rabbitmq,prisma,drizzle,typeorm,sequelize,stripe,discordjs,activitypub,fediverse,nginx,apache,cloudflare,workers,vercel,firebase,ngrok,docker,linux,git,github,gitlab,githubactions,npm,pnpm,maven,gradle,webpack,vite,esbuild,rollupjs,swc,eslint&perline=15)](https://github.com/syvixor/skills-icons)
+
+
+### IDEs & Tools
+
+[![IDEs & Tools](https://skills-icons.vercel.app/api/icons?i=vscode,,pycharm,webstorm,intellij,androidstudio&perline=10)](https://github.com/syvixor/skills-icons)
+
+## GitHub Stats
 
 <a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=benxh7&theme=great-gatsby&locale=en&count_private=true&show_icons=true" width=40% alt="benxh7's Github Stats"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/benxh7"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benxh7&layout=compact&theme=great-gatsby&locale=en" width=40% alt="benxh7's Github Stats"></a>
