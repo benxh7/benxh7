@@ -26,7 +26,7 @@
 
 ## Languages & Technologies
 
-[![Languages & Technologies](https://skills-icons.vercel.app/api/icons?i=java,js,ts,nodejs,html,css,tailwindcss,react,vue,nextjs,express,websocket,selenium,sqlite,mysql,mongo,redis,prisma,discordjs,nginx,cloudflare,workers,vercel,ngrok,docker,linux,git,github,gitlab,githubactions,npm,pnpm,maven,gradle,webpack,vite,esbuild,swc,eslint&perline=15)](https://github.com/syvixor/skills-icons)
+[![Languages & Technologies](https://skills-icons.vercel.app/api/icons?i=java,js,ts,nodejs,html,css,tailwindcss,react,vue,nextjs,express,websocket,selenium,sqlite,mysql,mongo,redis,prisma,discordjs,nginx,cloudflare,workers,vercel,ngrok,docker,linux,git,github,gitlab,githubactions,npm,pnpm,maven,gradle,webpack,vite,python,json,yaml&perline=15)](https://github.com/syvixor/skills-icons)
 
 
 ### IDEs & Tools
