@@ -14,7 +14,7 @@
 <hr/>
 
 * 😎 `My name is`: **Benjamin (benxh)**.
-* ⚡ `I'm`: **21**.
+* ⚡ `I'm`: **22**.
 * 🌱 `I’m currently learning`: **Python, Java, HTML, CSS, JavaScript, MySQL and Redis**.
 * 💖 `I love`: **🐈 Tina & America**.
 * 💻 `Favorite lang`: **Java, Python & TypeScript**
